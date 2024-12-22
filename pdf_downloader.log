@@ -1,0 +1,464 @@
+2024-12-19 18:49:31,255 - ERROR - Login failed
+2024-12-19 18:49:31,255 - ERROR - Failed to login. Exiting.
+2024-12-19 19:04:04,234 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-19 19:04:05,487 - DEBUG - https://www.tctmd.com:443 "POST /api/user/login HTTP/11" 404 None
+2024-12-19 19:04:05,528 - INFO - Login response status: 404
+2024-12-19 19:04:05,528 - ERROR - Failed to parse JSON response: Expecting value: line 1 column 1 (char 0)
+2024-12-19 19:04:05,528 - ERROR - Failed to login. Exiting.
+2024-12-19 19:06:21,110 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-19 19:06:21,191 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59566
+2024-12-19 19:06:21,890 - DEBUG - https://www.tctmd.com:443 "POST /user/login/ajax HTTP/11" 404 None
+2024-12-19 19:06:21,915 - INFO - Login response status: 404
+2024-12-19 19:06:21,915 - ERROR - Failed to parse JSON response: Expecting value: line 1 column 1 (char 0)
+2024-12-19 19:06:21,915 - ERROR - Raw response: <!doctype html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <!-- 10.73.10.187 -->
+    <!-- 2601:644:9200:9c10:c9dc:99fc:6155:974b, 
+2024-12-19 19:06:21,915 - ERROR - Failed to login. Exiting.
+2024-12-19 19:12:55,182 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-19 19:12:55,336 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59566
+2024-12-19 19:12:55,823 - DEBUG - https://www.tctmd.com:443 "GET /modal_forms/nojs/login HTTP/11" 404 47634
+2024-12-19 19:12:55,868 - ERROR - Could not find login form
+2024-12-19 19:12:55,868 - DEBUG - Response content: <!doctype html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <!-- 10.73.10.167 -->
+    <!-- 2601:644:9200:9c10:c9dc:99fc:6155:974b, 
+2024-12-19 19:12:55,868 - ERROR - Failed to login. Exiting.
+2024-12-19 19:24:53,945 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-19 19:24:54,253 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 68
+2024-12-19 19:24:54,254 - INFO - Login response status: 200
+2024-12-19 19:24:54,254 - INFO - Login response received
+2024-12-19 19:24:54,499 - DEBUG - https://www.tctmd.com:443 "GET /user HTTP/11" 302 None
+2024-12-19 19:24:54,540 - DEBUG - https://www.tctmd.com:443 "GET /user/login HTTP/11" 200 47434
+2024-12-19 19:24:54,553 - ERROR - Login failed
+2024-12-19 19:24:54,553 - ERROR - Response content: {"success":false,"message":"username is required"}
+2024-12-19 19:24:54,553 - ERROR - Failed to login. Exiting.
+2024-12-19 19:42:51,785 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-19 19:42:51,933 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59513
+2024-12-19 19:42:52,161 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 68
+2024-12-19 19:42:52,161 - INFO - Login response status: 200
+2024-12-19 19:42:52,161 - INFO - Login response received
+2024-12-19 19:42:52,308 - DEBUG - https://www.tctmd.com:443 "GET /user HTTP/11" 302 None
+2024-12-19 19:42:52,343 - DEBUG - https://www.tctmd.com:443 "GET /user/login HTTP/11" 200 47434
+2024-12-19 19:42:52,351 - ERROR - Login failed
+2024-12-19 19:42:52,351 - ERROR - Response content: {"success":false,"message":"username is required"}
+2024-12-19 19:42:52,351 - ERROR - Failed to login. Exiting.
+2024-12-19 19:51:26,379 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-19 19:51:26,517 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59513
+2024-12-19 19:51:29,669 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 221
+2024-12-19 19:51:29,670 - INFO - Login response status: 200
+2024-12-19 19:51:29,670 - INFO - Login response received
+2024-12-19 19:51:29,840 - DEBUG - https://www.tctmd.com:443 "GET /user HTTP/11" 302 None
+2024-12-19 19:51:30,948 - DEBUG - https://www.tctmd.com:443 "GET /user/112334?check_logged_in=1 HTTP/11" 200 None
+2024-12-19 19:51:30,978 - ERROR - Login failed
+2024-12-19 19:51:30,978 - ERROR - Response content: {"success":true,"message":null,"data":{"user_id":"112334","cookie_redirect":"https:\/\/tctmd.okta.com\/login\/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F\u0026token=20111lX__R5v5IF6agN1oFCRCbYOjkW8Od4ehweczC6zl5uq5I3vpJX"}}
+2024-12-19 19:51:30,978 - ERROR - Failed to login. Exiting.
+-----2024-12-19 19:53:44,780 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-19 19:53:44,855 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59513
+2024-12-19 19:53:47,855 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 224
+2024-12-19 19:53:47,855 - INFO - Login response status: 200
+2024-12-19 19:53:47,855 - INFO - Login response received
+2024-12-19 19:53:48,108 - DEBUG - https://www.tctmd.com:443 "GET /user HTTP/11" 302 None
+2024-12-19 19:53:48,577 - DEBUG - https://www.tctmd.com:443 "GET /user/112334?check_logged_in=1 HTTP/11" 200 None
+2024-12-19 19:53:48,602 - ERROR - Login failed
+2024-12-19 19:53:48,602 - ERROR - Response content: {"success":true,"message":null,"data":{"user_id":"112334","cookie_redirect":"https:\/\/tctmd.okta.com\/login\/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F\u0026token=20111wr62o9E7VlFc5cMUDxjyQVLMEsm7zHAFu9BDV_RG9Q59vaNKK8"}}
+2024-12-19 19:53:48,602 - ERROR - Failed to login. Exiting.
+2024-12-19 19:55:56,500 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-19 19:55:56,580 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59513
+2024-12-19 19:55:59,192 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 222
+2024-12-19 19:55:59,193 - INFO - Login response status: 200
+2024-12-19 19:55:59,193 - INFO - Login response received
+2024-12-19 19:55:59,421 - DEBUG - https://www.tctmd.com:443 "GET /user HTTP/11" 302 None
+2024-12-19 19:56:00,065 - DEBUG - https://www.tctmd.com:443 "GET /user/112334?check_logged_in=1 HTTP/11" 200 None
+2024-12-19 19:56:00,091 - ERROR - Login failed
+2024-12-19 19:56:00,091 - ERROR - Response content: {"success":true,"message":null,"data":{"user_id":"112334","cookie_redirect":"https:\/\/tctmd.okta.com\/login\/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F\u0026token=201115r5mjIaTak-1oIjPe04o-AIY6KmVBEFZGpOd6K-x2EABW74bM7"}}
+2024-12-19 19:56:00,092 - ERROR - Failed to login. Exiting.
+2024-12-19 20:37:55,765 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-19 20:37:57,000 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59513
+2024-12-19 20:38:00,096 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 222
+2024-12-19 20:38:00,097 - INFO - Login response status: 200
+2024-12-19 20:38:00,097 - INFO - Login response received
+2024-12-19 20:38:00,318 - DEBUG - https://www.tctmd.com:443 "GET /user HTTP/11" 302 None
+2024-12-19 20:38:00,919 - DEBUG - https://www.tctmd.com:443 "GET /user/112334?check_logged_in=1 HTTP/11" 200 None
+2024-12-19 20:38:01,028 - ERROR - Login failed
+2024-12-19 20:38:01,028 - ERROR - Response content: {"success":true,"message":null,"data":{"user_id":"112334","cookie_redirect":"https:\/\/tctmd.okta.com\/login\/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F\u0026token=20111QQw9h7HktftFQMjk5HUrzJHOskWUBrfMmJYOkFwumw-_hmCKLS"}}
+2024-12-19 20:38:01,029 - ERROR - Failed to login. Exiting.
+2024-12-20 17:00:28,418 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-20 17:00:28,595 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 46960
+2024-12-20 17:00:31,860 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 224
+2024-12-20 17:00:31,861 - INFO - Login response status: 200
+2024-12-20 17:00:31,904 - INFO - Login response received
+2024-12-20 17:00:32,185 - DEBUG - https://www.tctmd.com:443 "GET /user HTTP/11" 302 None
+2024-12-20 17:00:32,975 - DEBUG - https://www.tctmd.com:443 "GET /user/112334?check_logged_in=1 HTTP/11" 200 None
+2024-12-20 17:00:32,999 - ERROR - Login failed
+2024-12-20 17:00:33,000 - ERROR - Response content: {"success":true,"message":null,"data":{"user_id":"112334","cookie_redirect":"https:\/\/tctmd.okta.com\/login\/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F\u0026token=20111hRZIalY10JxUd5BnWoOCcCRUQ_BSaPNmOvTOxKZFDEx82VLV_g"}}
+2024-12-20 17:00:33,000 - ERROR - Failed to login. Exiting.
+2024-12-20 17:01:52,951 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-20 17:01:53,020 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 46960
+2024-12-20 17:01:55,924 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 223
+2024-12-20 17:01:55,925 - INFO - Login response status: 200
+2024-12-20 17:01:55,925 - INFO - Login response received
+2024-12-20 17:01:56,150 - DEBUG - https://www.tctmd.com:443 "GET /user HTTP/11" 302 None
+2024-12-20 17:01:56,807 - DEBUG - https://www.tctmd.com:443 "GET /user/112334?check_logged_in=1 HTTP/11" 200 None
+2024-12-20 17:01:56,830 - ERROR - Login failed
+2024-12-20 17:01:56,830 - ERROR - Response content: {"success":true,"message":null,"data":{"user_id":"112334","cookie_redirect":"https:\/\/tctmd.okta.com\/login\/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F\u0026token=20111iKHpQm-HwhSN8kzs6Qn84DW9vTCOu7HkERdnGG24Kdx33db9Id"}}
+2024-12-20 17:01:56,830 - ERROR - Failed to login. Exiting.
+2024-12-20 17:10:13,720 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-20 17:10:13,909 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59541
+2024-12-20 17:10:16,767 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 222
+2024-12-20 17:10:16,768 - INFO - Login response status: 200
+2024-12-20 17:10:16,768 - INFO - Login response received
+2024-12-20 17:10:16,999 - DEBUG - https://www.tctmd.com:443 "GET /user HTTP/11" 302 None
+2024-12-20 17:10:17,601 - DEBUG - https://www.tctmd.com:443 "GET /user/112334?check_logged_in=1 HTTP/11" 200 None
+2024-12-20 17:10:17,624 - ERROR - Login failed
+2024-12-20 17:10:17,625 - ERROR - Response content: {"success":true,"message":null,"data":{"user_id":"112334","cookie_redirect":"https:\/\/tctmd.okta.com\/login\/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F\u0026token=20111Nu3M9fIB7-4ofmOAnnm2AUjvGnL2HlBi4os8xYp8icNi9gbFfA"}}
+2024-12-20 17:10:17,625 - ERROR - Failed to login. Exiting.
+2024-12-20 17:30:42,997 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-20 17:30:43,211 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59541
+2024-12-20 17:30:46,322 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 223
+2024-12-20 17:30:46,323 - INFO - Initial login response status: 200
+2024-12-20 17:30:46,323 - DEBUG - Following Okta redirect: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111JhBYyRoZyJnMFgvGg3gFx-B4f4W-L_6uJKPLPJvS6JC-VJcfld
+2024-12-20 17:30:46,323 - DEBUG - Request 1: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111JhBYyRoZyJnMFgvGg3gFx-B4f4W-L_6uJKPLPJvS6JC-VJcfld
+2024-12-20 17:30:46,323 - DEBUG - Starting new HTTPS connection (1): tctmd.okta.com:443
+2024-12-20 17:30:46,673 - DEBUG - https://tctmd.okta.com:443 "GET /login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111JhBYyRoZyJnMFgvGg3gFx-B4f4W-L_6uJKPLPJvS6JC-VJcfld HTTP/11" 302 0
+2024-12-20 17:30:46,675 - DEBUG - Status: 302
+2024-12-20 17:30:46,675 - DEBUG - Headers: {'Date': 'Sat, 21 Dec 2024 01:30:45 GMT', 'Content-Length': '0', 'Connection': 'keep-alive', 'Server': 'nginx', 'x-okta-request-id': '22f6071e8bc757b6ee6af5f716018959', 'x-xss-protection': '0', 'p3p': 'CP="HONK"', 'set-cookie': 'xids=102MazXneRXRw-RldiW7iLYDQ;Version=1;Path=/;Secure;HttpOnly;SameSite=None, sid=102OeHKY7QqSi2r6OSQKz9zjw;Version=1;Path=/;Secure;HttpOnly;SameSite=None, autolaunch_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, activate_ca_modal_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, JSESSIONID=4F935A1C5E4DAB6DF1E98A8F1C89C1F6; Path=/; Secure; HttpOnly, t=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, DT=DI1jbvybiBaR2uwu-zOq1Cgxg;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon, 21 Dec 2026 01:30:45 GMT;HttpOnly;SameSite=None', 'content-security-policy-report-only': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'", 'content-security-policy': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com", 'x-rate-limit-limit': '850', 'x-rate-limit-remaining': '849', 'x-rate-limit-reset': '1734744705', 'referrer-policy': 'strict-origin-when-cross-origin', 'accept-ch': 'Sec-CH-UA-Platform-Version', 'cache-control': 'no-cache, no-store', 'pragma': 'no-cache', 'expires': '0', 'location': 'https://www.tctmd.com/', 'content-language': 'en', 'Strict-Transport-Security': 'max-age=315360000; includeSubDomains', 'X-Robots-Tag': 'noindex,nofollow'}
+2024-12-20 17:30:46,675 - DEBUG - Cookies being set
+2024-12-20 17:30:46,675 - ERROR - Error during Okta redirect: 'CaseInsensitiveDict' object has no attribute 'getall'
+2024-12-20 17:30:46,675 - DEBUG - Full error traceback:
+Traceback (most recent call last):
+  File "C:\TCTMD-Downloader\tctmd_downloader.py", line 87, in follow_okta_redirect
+    for cookie in response.headers.getall('Set-Cookie'):
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'CaseInsensitiveDict' object has no attribute 'getall'
+2024-12-20 17:30:46,676 - ERROR - Failed to complete Okta authentication
+2024-12-20 17:30:46,677 - ERROR - Failed to login. Exiting.
+2024-12-20 17:34:10,765 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-20 17:34:10,836 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59541
+2024-12-20 17:34:13,648 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 222
+2024-12-20 17:34:13,649 - INFO - Initial login response status: 200
+2024-12-20 17:34:13,649 - DEBUG - Following Okta redirect: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111xhBAlbgRMRW3BevDIX5C-j7oeU0puS17qrarz3QeovlL_8CLr2
+2024-12-20 17:34:13,649 - DEBUG - Request 1: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111xhBAlbgRMRW3BevDIX5C-j7oeU0puS17qrarz3QeovlL_8CLr2
+2024-12-20 17:34:13,649 - DEBUG - Starting new HTTPS connection (1): tctmd.okta.com:443
+2024-12-20 17:34:14,005 - DEBUG - https://tctmd.okta.com:443 "GET /login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111xhBAlbgRMRW3BevDIX5C-j7oeU0puS17qrarz3QeovlL_8CLr2 HTTP/11" 302 0
+2024-12-20 17:34:14,007 - DEBUG - Status: 302
+2024-12-20 17:34:14,007 - DEBUG - Headers: {'Date': 'Sat, 21 Dec 2024 01:34:13 GMT', 'Content-Length': '0', 'Connection': 'keep-alive', 'Server': 'nginx', 'x-okta-request-id': '2c371debe359f6f1f3fb3b4cf69e0b13', 'x-xss-protection': '0', 'p3p': 'CP="HONK"', 'set-cookie': 'xids=102iziFu9LjQAC4HBTP3iM0Ag;Version=1;Path=/;Secure;HttpOnly;SameSite=None, sid=102tYGbFydqT9ylHzwnLLUuKA;Version=1;Path=/;Secure;HttpOnly;SameSite=None, autolaunch_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, activate_ca_modal_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, JSESSIONID=F91C9F106DA4D35F229434C6629CBA7D; Path=/; Secure; HttpOnly, t=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, DT=DI1Z3UapQSgQb-tnAP1FYFjNA;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon, 21 Dec 2026 01:34:13 GMT;HttpOnly;SameSite=None', 'content-security-policy-report-only': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'", 'content-security-policy': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com", 'x-rate-limit-limit': '850', 'x-rate-limit-remaining': '849', 'x-rate-limit-reset': '1734744913', 'referrer-policy': 'strict-origin-when-cross-origin', 'accept-ch': 'Sec-CH-UA-Platform-Version', 'cache-control': 'no-cache, no-store', 'pragma': 'no-cache', 'expires': '0', 'location': 'https://www.tctmd.com/', 'content-language': 'en', 'Strict-Transport-Security': 'max-age=315360000; includeSubDomains', 'X-Robots-Tag': 'noindex,nofollow'}
+2024-12-20 17:34:14,007 - DEBUG - Cookies being set
+2024-12-20 17:34:14,007 - DEBUG - Cookie: xids=102iziFu9LjQAC4HBTP3iM0Ag;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 17:34:14,007 - DEBUG - Cookie: sid=102tYGbFydqT9ylHzwnLLUuKA;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 17:34:14,007 - DEBUG - Cookie: autolaunch_triggered=""; Expires=Thu
+2024-12-20 17:34:14,007 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 17:34:14,007 - DEBUG - Cookie: activate_ca_modal_triggered=""; Expires=Thu
+2024-12-20 17:34:14,007 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 17:34:14,007 - DEBUG - Cookie: JSESSIONID=F91C9F106DA4D35F229434C6629CBA7D; Path=/; Secure; HttpOnly
+2024-12-20 17:34:14,007 - DEBUG - Cookie: t=""; Expires=Thu
+2024-12-20 17:34:14,007 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 17:34:14,007 - DEBUG - Cookie: DT=DI1Z3UapQSgQb-tnAP1FYFjNA;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon
+2024-12-20 17:34:14,008 - DEBUG - Cookie: 21 Dec 2026 01:34:13 GMT;HttpOnly;SameSite=None
+2024-12-20 17:34:14,008 - DEBUG - Switching to TCTMD domain
+2024-12-20 17:34:14,008 - DEBUG - Following redirect to: https://www.tctmd.com/
+2024-12-20 17:34:14,008 - DEBUG - Request 2: https://www.tctmd.com/
+2024-12-20 17:34:15,942 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 17:34:15,965 - DEBUG - Status: 200
+2024-12-20 17:34:15,965 - DEBUG - Headers: {'Connection': 'keep-alive', 'Cache-Control': 'must-revalidate, no-cache, private', 'Content-Encoding': 'gzip', 'Content-Language': 'en', 'Content-Type': 'text/html; charset=UTF-8', 'Expires': 'Sun, 19 Nov 1978 05:00:00 GMT', 'Server': 'nginx', 'X-Content-Type-Options': 'nosniff', 'X-Drupal-Dynamic-Cache': 'UNCACHEABLE', 'X-Frame-Options': 'SAMEORIGIN', 'X-Generator': 'Drupal 9 (https://www.drupal.org)', 'X-Pantheon-Styx-Hostname': 'styx-fe2-a-669845b445-9c49r', 'X-Styx-Req-Id': 'aefc7750-bf3b-11ef-89f6-1a9c3a280c43', 'X-Ua-Compatible': 'IE=edge', 'Date': 'Sat, 21 Dec 2024 01:34:15 GMT', 'X-Served-By': 'cache-chi-klot8100025-CHI, cache-pao-kpao1770049-PAO', 'X-Cache': 'MISS, MISS', 'X-Cache-Hits': '0, 0', 'X-Timer': 'S1734744853.120788,VS0,VE1916', 'Vary': 'Accept-Encoding, Cookie, Cookie', 'Age': '0', 'Accept-Ranges': 'bytes', 'Via': '1.1 varnish, 1.1 varnish', 'transfer-encoding': 'chunked'}
+2024-12-20 17:34:16,955 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 17:34:16,978 - ERROR - Failed to complete Okta authentication
+2024-12-20 17:34:16,979 - ERROR - Failed to login. Exiting.
+2024-12-20 17:38:10,898 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-20 17:38:11,023 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59541
+2024-12-20 17:38:14,101 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 222
+2024-12-20 17:38:14,102 - INFO - Initial login response status: 200
+2024-12-20 17:38:14,102 - DEBUG - Following Okta redirect: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111sWm52y5iHYw0hOobLY7SLdqy0GDNaWt86KARMpBPo666soSlO2
+2024-12-20 17:38:14,102 - DEBUG - Request 1: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111sWm52y5iHYw0hOobLY7SLdqy0GDNaWt86KARMpBPo666soSlO2
+2024-12-20 17:38:14,103 - DEBUG - Starting new HTTPS connection (1): tctmd.okta.com:443
+2024-12-20 17:38:14,491 - DEBUG - https://tctmd.okta.com:443 "GET /login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111sWm52y5iHYw0hOobLY7SLdqy0GDNaWt86KARMpBPo666soSlO2 HTTP/11" 302 0
+2024-12-20 17:38:14,493 - DEBUG - Status: 302
+2024-12-20 17:38:14,493 - DEBUG - Headers: {'Date': 'Sat, 21 Dec 2024 01:38:13 GMT', 'Content-Length': '0', 'Connection': 'keep-alive', 'Server': 'nginx', 'x-okta-request-id': 'afc321a89c3be129918e433bdee3837e', 'x-xss-protection': '0', 'p3p': 'CP="HONK"', 'set-cookie': 'xids=102owqdif-OQNyPTtCwkAzFhA;Version=1;Path=/;Secure;HttpOnly;SameSite=None, sid=102CyJCOEAWT5WoCTX4DWCm_A;Version=1;Path=/;Secure;HttpOnly;SameSite=None, autolaunch_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, activate_ca_modal_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, JSESSIONID=F76E04EAF4C778A36282B3C04BC33D14; Path=/; Secure; HttpOnly, t=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, DT=DI1ShGXP_M1StGUJHYWL1fYfg;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon, 21 Dec 2026 01:38:13 GMT;HttpOnly;SameSite=None', 'content-security-policy-report-only': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'", 'content-security-policy': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com", 'x-rate-limit-limit': '850', 'x-rate-limit-remaining': '849', 'x-rate-limit-reset': '1734745153', 'referrer-policy': 'strict-origin-when-cross-origin', 'accept-ch': 'Sec-CH-UA-Platform-Version', 'cache-control': 'no-cache, no-store', 'pragma': 'no-cache', 'expires': '0', 'location': 'https://www.tctmd.com/', 'content-language': 'en', 'Strict-Transport-Security': 'max-age=315360000; includeSubDomains', 'X-Robots-Tag': 'noindex,nofollow'}
+2024-12-20 17:38:14,493 - DEBUG - Cookies being set
+2024-12-20 17:38:14,493 - DEBUG - Cookie: xids=102owqdif-OQNyPTtCwkAzFhA;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 17:38:14,493 - DEBUG - Cookie: sid=102CyJCOEAWT5WoCTX4DWCm_A;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 17:38:14,493 - DEBUG - Cookie: autolaunch_triggered=""; Expires=Thu
+2024-12-20 17:38:14,493 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 17:38:14,493 - DEBUG - Cookie: activate_ca_modal_triggered=""; Expires=Thu
+2024-12-20 17:38:14,493 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 17:38:14,493 - DEBUG - Cookie: JSESSIONID=F76E04EAF4C778A36282B3C04BC33D14; Path=/; Secure; HttpOnly
+2024-12-20 17:38:14,493 - DEBUG - Cookie: t=""; Expires=Thu
+2024-12-20 17:38:14,493 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 17:38:14,493 - DEBUG - Cookie: DT=DI1ShGXP_M1StGUJHYWL1fYfg;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon
+2024-12-20 17:38:14,493 - DEBUG - Cookie: 21 Dec 2026 01:38:13 GMT;HttpOnly;SameSite=None
+2024-12-20 17:38:14,493 - DEBUG - Switching to TCTMD domain
+2024-12-20 17:38:14,493 - DEBUG - Following redirect to: https://www.tctmd.com/
+2024-12-20 17:38:14,493 - DEBUG - Request 2: https://www.tctmd.com/
+2024-12-20 17:38:16,285 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 17:38:16,312 - DEBUG - Status: 200
+2024-12-20 17:38:16,312 - DEBUG - Headers: {'Connection': 'keep-alive', 'Cache-Control': 'must-revalidate, no-cache, private', 'Content-Encoding': 'gzip', 'Content-Language': 'en', 'Content-Type': 'text/html; charset=UTF-8', 'Expires': 'Sun, 19 Nov 1978 05:00:00 GMT', 'Server': 'nginx', 'X-Content-Type-Options': 'nosniff', 'X-Drupal-Dynamic-Cache': 'UNCACHEABLE', 'X-Frame-Options': 'SAMEORIGIN', 'X-Generator': 'Drupal 9 (https://www.drupal.org)', 'X-Pantheon-Styx-Hostname': 'styx-fe2-b-778d7cd4b8-kq8vm', 'X-Styx-Req-Id': '3e54e603-bf3c-11ef-96dc-fec3be192d6f', 'X-Ua-Compatible': 'IE=edge', 'Date': 'Sat, 21 Dec 2024 01:38:15 GMT', 'X-Served-By': 'cache-chi-kigq8000132-CHI, cache-pao-kpao1770021-PAO', 'X-Cache': 'MISS, MISS', 'X-Cache-Hits': '0, 0', 'X-Timer': 'S1734745094.610397,VS0,VE1774', 'Vary': 'Accept-Encoding, Cookie, Cookie', 'Age': '0', 'Accept-Ranges': 'bytes', 'Via': '1.1 varnish, 1.1 varnish', 'transfer-encoding': 'chunked'}
+2024-12-20 17:38:17,613 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 17:38:17,635 - ERROR - Failed to complete Okta authentication
+2024-12-20 17:38:17,636 - ERROR - Failed to login. Exiting.
+2024-12-20 17:45:12,491 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-20 17:45:12,675 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59541
+2024-12-20 17:45:15,692 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 223
+2024-12-20 17:45:15,693 - INFO - Initial login response status: 200
+2024-12-20 17:45:15,693 - DEBUG - Following Okta redirect: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111BuQ5YHLEwGsImolLebvwPpdycNCUjD8iwYEf0dPbIue9OTL7PY
+2024-12-20 17:45:15,693 - DEBUG - Request 1: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111BuQ5YHLEwGsImolLebvwPpdycNCUjD8iwYEf0dPbIue9OTL7PY
+2024-12-20 17:45:15,693 - DEBUG - Starting new HTTPS connection (1): tctmd.okta.com:443
+2024-12-20 17:45:16,156 - DEBUG - https://tctmd.okta.com:443 "GET /login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111BuQ5YHLEwGsImolLebvwPpdycNCUjD8iwYEf0dPbIue9OTL7PY HTTP/11" 302 0
+2024-12-20 17:45:16,158 - DEBUG - Status: 302
+2024-12-20 17:45:16,158 - DEBUG - Headers: {'Date': 'Sat, 21 Dec 2024 01:45:15 GMT', 'Content-Length': '0', 'Connection': 'keep-alive', 'Server': 'nginx', 'x-okta-request-id': '65c976617311453c5a8263410414c1f4', 'x-xss-protection': '0', 'p3p': 'CP="HONK"', 'set-cookie': 'xids=102cklxcWSNQWOH7D4FdvlI1Q;Version=1;Path=/;Secure;HttpOnly;SameSite=None, sid=102Zdvacku_TXOJLOef41aKiQ;Version=1;Path=/;Secure;HttpOnly;SameSite=None, autolaunch_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, activate_ca_modal_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, JSESSIONID=F1D3B5B3D13BBCD63AD24F1FD32BB677; Path=/; Secure; HttpOnly, t=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, DT=DI1yqqdAursRv6P6q73kbRk2g;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon, 21 Dec 2026 01:45:15 GMT;HttpOnly;SameSite=None', 'content-security-policy-report-only': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'", 'content-security-policy': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com", 'x-rate-limit-limit': '850', 'x-rate-limit-remaining': '849', 'x-rate-limit-reset': '1734745575', 'referrer-policy': 'strict-origin-when-cross-origin', 'accept-ch': 'Sec-CH-UA-Platform-Version', 'cache-control': 'no-cache, no-store', 'pragma': 'no-cache', 'expires': '0', 'location': 'https://www.tctmd.com/', 'content-language': 'en', 'Strict-Transport-Security': 'max-age=315360000; includeSubDomains', 'X-Robots-Tag': 'noindex,nofollow'}
+2024-12-20 17:45:16,158 - DEBUG - Cookies being set
+2024-12-20 17:45:16,158 - DEBUG - Cookie: xids=102cklxcWSNQWOH7D4FdvlI1Q;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 17:45:16,158 - DEBUG - Cookie: sid=102Zdvacku_TXOJLOef41aKiQ;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 17:45:16,158 - DEBUG - Cookie: autolaunch_triggered=""; Expires=Thu
+2024-12-20 17:45:16,158 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 17:45:16,158 - DEBUG - Cookie: activate_ca_modal_triggered=""; Expires=Thu
+2024-12-20 17:45:16,158 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 17:45:16,158 - DEBUG - Cookie: JSESSIONID=F1D3B5B3D13BBCD63AD24F1FD32BB677; Path=/; Secure; HttpOnly
+2024-12-20 17:45:16,158 - DEBUG - Cookie: t=""; Expires=Thu
+2024-12-20 17:45:16,158 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 17:45:16,158 - DEBUG - Cookie: DT=DI1yqqdAursRv6P6q73kbRk2g;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon
+2024-12-20 17:45:16,158 - DEBUG - Cookie: 21 Dec 2026 01:45:15 GMT;HttpOnly;SameSite=None
+2024-12-20 17:45:16,158 - DEBUG - Switching to TCTMD domain
+2024-12-20 17:45:16,158 - DEBUG - Following redirect to: https://www.tctmd.com/
+2024-12-20 17:45:16,158 - DEBUG - Request 2: https://www.tctmd.com/
+2024-12-20 17:45:17,845 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 17:45:17,868 - DEBUG - Status: 200
+2024-12-20 17:45:17,868 - DEBUG - Headers: {'Connection': 'keep-alive', 'Cache-Control': 'must-revalidate, no-cache, private', 'Content-Encoding': 'gzip', 'Content-Language': 'en', 'Content-Type': 'text/html; charset=UTF-8', 'Expires': 'Sun, 19 Nov 1978 05:00:00 GMT', 'Server': 'nginx', 'X-Content-Type-Options': 'nosniff', 'X-Drupal-Dynamic-Cache': 'UNCACHEABLE', 'X-Frame-Options': 'SAMEORIGIN', 'X-Generator': 'Drupal 9 (https://www.drupal.org)', 'X-Pantheon-Styx-Hostname': 'styx-fe2-a-669845b445-tlfpb', 'X-Styx-Req-Id': '39aaa105-bf3d-11ef-8a2f-be5fafa08567', 'X-Ua-Compatible': 'IE=edge', 'Date': 'Sat, 21 Dec 2024 01:45:16 GMT', 'X-Served-By': 'cache-chi-klot8100105-CHI, cache-pao-kpao1770023-PAO', 'X-Cache': 'MISS, MISS', 'X-Cache-Hits': '0, 0', 'X-Timer': 'S1734745515.282725,VS0,VE1670', 'Vary': 'Accept-Encoding, Cookie, Cookie', 'Age': '0', 'Accept-Ranges': 'bytes', 'Via': '1.1 varnish, 1.1 varnish', 'transfer-encoding': 'chunked'}
+2024-12-20 17:45:17,868 - ERROR - Error during login process: 'TCTMDDownloader' object has no attribute 'verify_login'
+2024-12-20 17:45:17,868 - ERROR - Response content: {"success":true,"message":null,"data":{"user_id":"112334","cookie_redirect":"https:\/\/tctmd.okta.com\/login\/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F\u0026token=20111BuQ5YHLEwGsImolLebvwPpdycNCUjD8iwYEf0dPbIue9OTL7PY"}}
+2024-12-20 17:45:17,868 - ERROR - Failed to login. Exiting.
+2024-12-20 17:48:35,294 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-20 17:48:35,371 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59541
+2024-12-20 17:48:38,315 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 220
+2024-12-20 17:48:38,315 - INFO - Initial login response status: 200
+2024-12-20 17:48:38,315 - DEBUG - Following Okta redirect: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111Ei2NouViAswk-oOTWcRV0nKgagidLBLyfCOtXAI1c0BD6pO3-U
+2024-12-20 17:48:38,315 - DEBUG - Request 1: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111Ei2NouViAswk-oOTWcRV0nKgagidLBLyfCOtXAI1c0BD6pO3-U
+2024-12-20 17:48:38,316 - DEBUG - Starting new HTTPS connection (1): tctmd.okta.com:443
+2024-12-20 17:48:38,772 - DEBUG - https://tctmd.okta.com:443 "GET /login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111Ei2NouViAswk-oOTWcRV0nKgagidLBLyfCOtXAI1c0BD6pO3-U HTTP/11" 302 0
+2024-12-20 17:48:38,774 - DEBUG - Status: 302
+2024-12-20 17:48:38,774 - DEBUG - Headers: {'Date': 'Sat, 21 Dec 2024 01:48:37 GMT', 'Content-Length': '0', 'Connection': 'keep-alive', 'Server': 'nginx', 'x-okta-request-id': 'bdf39600d5cbab06895eb150412b550c', 'x-xss-protection': '0', 'p3p': 'CP="HONK"', 'set-cookie': 'xids=102bbYauFP6SlWBL3JI_oJvaw;Version=1;Path=/;Secure;HttpOnly;SameSite=None, sid=102GtzxUJ6BTne_t7OiUGsCJg;Version=1;Path=/;Secure;HttpOnly;SameSite=None, autolaunch_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, activate_ca_modal_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, JSESSIONID=398AA649B0172F9071ECE04FA195C274; Path=/; Secure; HttpOnly, t=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, DT=DI16ERZ5zYuSO28T71E9ZzMnQ;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon, 21 Dec 2026 01:48:37 GMT;HttpOnly;SameSite=None', 'content-security-policy-report-only': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'", 'content-security-policy': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com", 'x-rate-limit-limit': '850', 'x-rate-limit-remaining': '849', 'x-rate-limit-reset': '1734745777', 'referrer-policy': 'strict-origin-when-cross-origin', 'accept-ch': 'Sec-CH-UA-Platform-Version', 'cache-control': 'no-cache, no-store', 'pragma': 'no-cache', 'expires': '0', 'location': 'https://www.tctmd.com/', 'content-language': 'en', 'Strict-Transport-Security': 'max-age=315360000; includeSubDomains', 'X-Robots-Tag': 'noindex,nofollow'}
+2024-12-20 17:48:38,774 - DEBUG - Cookies being set
+2024-12-20 17:48:38,774 - DEBUG - Cookie: xids=102bbYauFP6SlWBL3JI_oJvaw;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 17:48:38,774 - DEBUG - Cookie: sid=102GtzxUJ6BTne_t7OiUGsCJg;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 17:48:38,774 - DEBUG - Cookie: autolaunch_triggered=""; Expires=Thu
+2024-12-20 17:48:38,774 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 17:48:38,774 - DEBUG - Cookie: activate_ca_modal_triggered=""; Expires=Thu
+2024-12-20 17:48:38,774 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 17:48:38,774 - DEBUG - Cookie: JSESSIONID=398AA649B0172F9071ECE04FA195C274; Path=/; Secure; HttpOnly
+2024-12-20 17:48:38,774 - DEBUG - Cookie: t=""; Expires=Thu
+2024-12-20 17:48:38,774 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 17:48:38,774 - DEBUG - Cookie: DT=DI16ERZ5zYuSO28T71E9ZzMnQ;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon
+2024-12-20 17:48:38,774 - DEBUG - Cookie: 21 Dec 2026 01:48:37 GMT;HttpOnly;SameSite=None
+2024-12-20 17:48:38,774 - DEBUG - Switching to TCTMD domain
+2024-12-20 17:48:38,774 - DEBUG - Following redirect to: https://www.tctmd.com/
+2024-12-20 17:48:38,774 - DEBUG - Request 2: https://www.tctmd.com/
+2024-12-20 17:48:40,282 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 17:48:40,311 - DEBUG - Status: 200
+2024-12-20 17:48:40,311 - DEBUG - Headers: {'Connection': 'keep-alive', 'Cache-Control': 'must-revalidate, no-cache, private', 'Content-Encoding': 'gzip', 'Content-Language': 'en', 'Content-Type': 'text/html; charset=UTF-8', 'Expires': 'Sun, 19 Nov 1978 05:00:00 GMT', 'Server': 'nginx', 'X-Content-Type-Options': 'nosniff', 'X-Drupal-Dynamic-Cache': 'UNCACHEABLE', 'X-Frame-Options': 'SAMEORIGIN', 'X-Generator': 'Drupal 9 (https://www.drupal.org)', 'X-Pantheon-Styx-Hostname': 'styx-fe2-a-669845b445-4p2gh', 'X-Styx-Req-Id': 'b26fc6fd-bf3d-11ef-91a0-36c32c4dcc54', 'X-Ua-Compatible': 'IE=edge', 'Date': 'Sat, 21 Dec 2024 01:48:39 GMT', 'X-Served-By': 'cache-chi-klot8100098-CHI, cache-pao-kpao1770060-PAO', 'X-Cache': 'MISS, MISS', 'X-Cache-Hits': '0, 0', 'X-Timer': 'S1734745718.901027,VS0,VE1491', 'Vary': 'Accept-Encoding, Cookie, Cookie', 'Age': '0', 'Accept-Ranges': 'bytes', 'Via': '1.1 varnish, 1.1 varnish', 'transfer-encoding': 'chunked'}
+2024-12-20 17:48:43,178 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 17:48:43,257 - INFO - Login verified - found user-logged-in class
+2024-12-20 17:59:08,009 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-20 17:59:08,151 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59541
+2024-12-20 17:59:11,320 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 222
+2024-12-20 17:59:11,321 - INFO - Initial login response status: 200
+2024-12-20 17:59:11,321 - DEBUG - Following Okta redirect: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111joatUPqtcJWYVDrDmPZQX21-rCdu2PJfU7XNAJ8FkW4J83lyYR
+2024-12-20 17:59:11,321 - DEBUG - Request 1: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111joatUPqtcJWYVDrDmPZQX21-rCdu2PJfU7XNAJ8FkW4J83lyYR
+2024-12-20 17:59:11,322 - DEBUG - Starting new HTTPS connection (1): tctmd.okta.com:443
+2024-12-20 17:59:11,746 - DEBUG - https://tctmd.okta.com:443 "GET /login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111joatUPqtcJWYVDrDmPZQX21-rCdu2PJfU7XNAJ8FkW4J83lyYR HTTP/11" 302 0
+2024-12-20 17:59:11,747 - DEBUG - Status: 302
+2024-12-20 17:59:11,748 - DEBUG - Headers: {'Date': 'Sat, 21 Dec 2024 01:59:10 GMT', 'Content-Length': '0', 'Connection': 'keep-alive', 'Server': 'nginx', 'x-okta-request-id': 'b3091b5ff76ef7b59ff828ddeade56c3', 'x-xss-protection': '0', 'p3p': 'CP="HONK"', 'set-cookie': 'xids=1020e8QYcN9TByvxZGkZvSElg;Version=1;Path=/;Secure;HttpOnly;SameSite=None, sid=1021FL5p1puQNWqVeWcxFORcg;Version=1;Path=/;Secure;HttpOnly;SameSite=None, autolaunch_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, activate_ca_modal_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, JSESSIONID=70A3E7A9C9BC92E293B972C80E6AE8D8; Path=/; Secure; HttpOnly, t=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, DT=DI1qfIyh_UMQZ6gNnW29yz3mQ;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon, 21 Dec 2026 01:59:10 GMT;HttpOnly;SameSite=None', 'content-security-policy-report-only': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'", 'content-security-policy': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com", 'x-rate-limit-limit': '850', 'x-rate-limit-remaining': '849', 'x-rate-limit-reset': '1734746410', 'referrer-policy': 'strict-origin-when-cross-origin', 'accept-ch': 'Sec-CH-UA-Platform-Version', 'cache-control': 'no-cache, no-store', 'pragma': 'no-cache', 'expires': '0', 'location': 'https://www.tctmd.com/', 'content-language': 'en', 'Strict-Transport-Security': 'max-age=315360000; includeSubDomains', 'X-Robots-Tag': 'noindex,nofollow'}
+2024-12-20 17:59:11,748 - DEBUG - Cookies being set
+2024-12-20 17:59:11,748 - DEBUG - Cookie: xids=1020e8QYcN9TByvxZGkZvSElg;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 17:59:11,748 - DEBUG - Cookie: sid=1021FL5p1puQNWqVeWcxFORcg;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 17:59:11,748 - DEBUG - Cookie: autolaunch_triggered=""; Expires=Thu
+2024-12-20 17:59:11,748 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 17:59:11,748 - DEBUG - Cookie: activate_ca_modal_triggered=""; Expires=Thu
+2024-12-20 17:59:11,748 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 17:59:11,748 - DEBUG - Cookie: JSESSIONID=70A3E7A9C9BC92E293B972C80E6AE8D8; Path=/; Secure; HttpOnly
+2024-12-20 17:59:11,748 - DEBUG - Cookie: t=""; Expires=Thu
+2024-12-20 17:59:11,748 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 17:59:11,748 - DEBUG - Cookie: DT=DI1qfIyh_UMQZ6gNnW29yz3mQ;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon
+2024-12-20 17:59:11,748 - DEBUG - Cookie: 21 Dec 2026 01:59:10 GMT;HttpOnly;SameSite=None
+2024-12-20 17:59:11,748 - DEBUG - Switching to TCTMD domain
+2024-12-20 17:59:11,748 - DEBUG - Following redirect to: https://www.tctmd.com/
+2024-12-20 17:59:11,748 - DEBUG - Request 2: https://www.tctmd.com/
+2024-12-20 17:59:13,273 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 17:59:13,297 - DEBUG - Status: 200
+2024-12-20 17:59:13,297 - DEBUG - Headers: {'Connection': 'keep-alive', 'Cache-Control': 'must-revalidate, no-cache, private', 'Content-Encoding': 'gzip', 'Content-Language': 'en', 'Content-Type': 'text/html; charset=UTF-8', 'Expires': 'Sun, 19 Nov 1978 05:00:00 GMT', 'Server': 'nginx', 'X-Content-Type-Options': 'nosniff', 'X-Drupal-Dynamic-Cache': 'UNCACHEABLE', 'X-Frame-Options': 'SAMEORIGIN', 'X-Generator': 'Drupal 9 (https://www.drupal.org)', 'X-Pantheon-Styx-Hostname': 'styx-fe2-b-778d7cd4b8-pvjqz', 'X-Styx-Req-Id': '2bbb5308-bf3f-11ef-b984-5a2802f389d2', 'X-Ua-Compatible': 'IE=edge', 'Date': 'Sat, 21 Dec 2024 01:59:12 GMT', 'X-Served-By': 'cache-chi-klot8100136-CHI, cache-pao-kpao1770075-PAO', 'X-Cache': 'MISS, MISS', 'X-Cache-Hits': '0, 0', 'X-Timer': 'S1734746351.886590,VS0,VE1507', 'Vary': 'Accept-Encoding, Cookie, Cookie', 'Age': '0', 'Accept-Ranges': 'bytes', 'Via': '1.1 varnish, 1.1 varnish', 'transfer-encoding': 'chunked'}
+2024-12-20 17:59:16,393 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 17:59:16,472 - INFO - Login verified - found user-logged-in class
+2024-12-20 17:59:17,015 - DEBUG - https://www.tctmd.com:443 "GET /search?keyword=&type=slide&desc=true&page=1&page_size=12&sortmode=Date&matching=AND&searched=true HTTP/11" 200 None
+2024-12-20 17:59:17,076 - ERROR - Could not determine total number of PDFs
+2024-12-20 18:13:06,096 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-20 18:13:06,294 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59541
+2024-12-20 18:13:09,267 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 225
+2024-12-20 18:13:09,267 - INFO - Initial login response status: 200
+2024-12-20 18:13:09,267 - DEBUG - Following Okta redirect: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111CKSgyUgZQLUqHHbYHGbTb0DKbTnlO_IHY5TszLs7E4F8EXaPJA
+2024-12-20 18:13:09,267 - DEBUG - Request 1: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111CKSgyUgZQLUqHHbYHGbTb0DKbTnlO_IHY5TszLs7E4F8EXaPJA
+2024-12-20 18:13:09,268 - DEBUG - Starting new HTTPS connection (1): tctmd.okta.com:443
+2024-12-20 18:13:09,697 - DEBUG - https://tctmd.okta.com:443 "GET /login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111CKSgyUgZQLUqHHbYHGbTb0DKbTnlO_IHY5TszLs7E4F8EXaPJA HTTP/11" 302 0
+2024-12-20 18:13:09,699 - DEBUG - Status: 302
+2024-12-20 18:13:09,699 - DEBUG - Headers: {'Date': 'Sat, 21 Dec 2024 02:13:08 GMT', 'Content-Length': '0', 'Connection': 'keep-alive', 'Server': 'nginx', 'x-okta-request-id': 'd0853321c9389f71ee1d0d7a156f7112', 'x-xss-protection': '0', 'p3p': 'CP="HONK"', 'set-cookie': 'xids=102o0mJWxr_SJ60o4B2r7pNYA;Version=1;Path=/;Secure;HttpOnly;SameSite=None, sid=102_YUuqiJ1R2akGbmqnAeCpg;Version=1;Path=/;Secure;HttpOnly;SameSite=None, autolaunch_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, activate_ca_modal_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, JSESSIONID=7D97FD64EC1A93E23948F940A8A26825; Path=/; Secure; HttpOnly, t=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, DT=DI1a3c7ZmpHQaKJCeBmmjXudw;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon, 21 Dec 2026 02:13:08 GMT;HttpOnly;SameSite=None', 'content-security-policy-report-only': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'", 'content-security-policy': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com", 'x-rate-limit-limit': '850', 'x-rate-limit-remaining': '849', 'x-rate-limit-reset': '1734747248', 'referrer-policy': 'strict-origin-when-cross-origin', 'accept-ch': 'Sec-CH-UA-Platform-Version', 'cache-control': 'no-cache, no-store', 'pragma': 'no-cache', 'expires': '0', 'location': 'https://www.tctmd.com/', 'content-language': 'en', 'Strict-Transport-Security': 'max-age=315360000; includeSubDomains', 'X-Robots-Tag': 'noindex,nofollow'}
+2024-12-20 18:13:09,699 - DEBUG - Cookies being set
+2024-12-20 18:13:09,699 - DEBUG - Cookie: xids=102o0mJWxr_SJ60o4B2r7pNYA;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 18:13:09,699 - DEBUG - Cookie: sid=102_YUuqiJ1R2akGbmqnAeCpg;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 18:13:09,699 - DEBUG - Cookie: autolaunch_triggered=""; Expires=Thu
+2024-12-20 18:13:09,699 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 18:13:09,699 - DEBUG - Cookie: activate_ca_modal_triggered=""; Expires=Thu
+2024-12-20 18:13:09,699 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 18:13:09,699 - DEBUG - Cookie: JSESSIONID=7D97FD64EC1A93E23948F940A8A26825; Path=/; Secure; HttpOnly
+2024-12-20 18:13:09,699 - DEBUG - Cookie: t=""; Expires=Thu
+2024-12-20 18:13:09,699 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 18:13:09,699 - DEBUG - Cookie: DT=DI1a3c7ZmpHQaKJCeBmmjXudw;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon
+2024-12-20 18:13:09,699 - DEBUG - Cookie: 21 Dec 2026 02:13:08 GMT;HttpOnly;SameSite=None
+2024-12-20 18:13:09,699 - DEBUG - Switching to TCTMD domain
+2024-12-20 18:13:09,699 - DEBUG - Following redirect to: https://www.tctmd.com/
+2024-12-20 18:13:09,699 - DEBUG - Request 2: https://www.tctmd.com/
+2024-12-20 18:13:11,519 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 18:13:11,542 - DEBUG - Status: 200
+2024-12-20 18:13:11,542 - DEBUG - Headers: {'Connection': 'keep-alive', 'Cache-Control': 'must-revalidate, no-cache, private', 'Content-Encoding': 'gzip', 'Content-Language': 'en', 'Content-Type': 'text/html; charset=UTF-8', 'Expires': 'Sun, 19 Nov 1978 05:00:00 GMT', 'Server': 'nginx', 'X-Content-Type-Options': 'nosniff', 'X-Drupal-Dynamic-Cache': 'UNCACHEABLE', 'X-Frame-Options': 'SAMEORIGIN', 'X-Generator': 'Drupal 9 (https://www.drupal.org)', 'X-Pantheon-Styx-Hostname': 'styx-fe2-a-669845b445-vk57g', 'X-Styx-Req-Id': '1f30ccd5-bf41-11ef-8a26-027bf38310c5', 'X-Ua-Compatible': 'IE=edge', 'Date': 'Sat, 21 Dec 2024 02:13:10 GMT', 'X-Served-By': 'cache-chi-klot8100039-CHI, cache-pao-kpao1770081-PAO', 'X-Cache': 'MISS, MISS', 'X-Cache-Hits': '0, 0', 'X-Timer': 'S1734747189.851563,VS0,VE1802', 'Vary': 'Accept-Encoding, Cookie, Cookie', 'Age': '0', 'Accept-Ranges': 'bytes', 'Via': '1.1 varnish, 1.1 varnish', 'transfer-encoding': 'chunked'}
+2024-12-20 18:13:14,690 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 18:13:14,769 - INFO - Login verified - found user-logged-in class
+2024-12-20 18:13:15,154 - DEBUG - https://www.tctmd.com:443 "GET /search?keyword=&type=slide&desc=true&page=1&page_size=12&sortmode=Date&matching=AND&searched=true HTTP/11" 200 None
+2024-12-20 18:13:15,214 - DEBUG - Search page HTML:
+2024-12-20 18:13:15,214 - DEBUG - <!doctype html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <!-- 10.73.9.134 -->
+    <!-- 2601:644:9200:4c10:8802:803a:db28:ff08, 2601:644:9200:4c10:8802:803a:db28:ff08 -->
+    <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-4940841e6133d456c7c",applicationID:"324496895"};;/*! For license information please see nr-loader-rum-1.277.0.min.js.LICENSE.txt */
+(()=>{var e,t,r={8122:(e,t,r)=>{"use strict";r.d(t,{a:()=>i});var n=r(944);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.R)(3)
+2024-12-20 18:13:15,226 - DEBUG - Found results count using selector: div[class*="count"]
+2024-12-20 18:13:15,226 - DEBUG - Results text: 
+Country
+- Select -AfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua & BarbudaArgentinaArmeniaArubaAscension IslandAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia & HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBritish Virgin IslandsBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCanary IslandsCape VerdeCaribbean NetherlandsCayman IslandsCentral African RepublicCeuta & MelillaChadChileChinaChristmas IslandClipperton IslandCocos (Keeling) IslandsColombiaComorosCongo - BrazzavilleCongo - KinshasaCook IslandsCosta RicaCroatiaCubaCuraçaoCyprusCzechiaCôte d’IvoireDenmarkDiego GarciaDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatiniEthiopiaFalkland IslandsFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard & McDonald IslandsHondurasHong Kong SAR ChinaHungaryIcelandIndiaIndonesiaIranIraqIrelandIsle of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKosovoKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacao SAR ChinaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmar (Burma)NamibiaNauruNepalNetherlandsNetherlands AntillesNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorth KoreaNorth MacedoniaNorwayOmanOutlying OceaniaPakistanPalauPalestinian TerritoriesPanamaPapua New GuineaParaguayPeruPhilippinesPitcairn IslandsPolandPortugalPuerto RicoQatarRomaniaRussiaRwandaRéunionSamoaSan MarinoSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint MaartenSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia & South Sandwich IslandsSouth KoreaSouth SudanSpainSri LankaSt. BarthélemySt. HelenaSt. Kitts & NevisSt. LuciaSt. MartinSt. Pierre & MiquelonSt. Vincent & GrenadinesSudanSurinameSvalbard & Jan MayenSwedenSwitzerlandSyriaSão Tomé & PríncipeTaiwanTajikistanTanzaniaThailandTimor-LesteTogoTokelauTongaTrinidad & TobagoTristan da CunhaTunisiaTurkeyTurkmenistanTurks & Caicos IslandsTuvaluU.S. Outlying IslandsU.S. Virgin IslandsUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVatican CityVenezuelaVietnamWallis & FutunaWestern SaharaYemenZambiaZimbabweÅland Islands
+
+2024-12-20 18:13:15,228 - ERROR - Could not find any results count or PDF links
+2024-12-20 18:13:15,228 - INFO - Found 12 PDFs in total
+2024-12-20 18:15:54,217 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-20 18:15:54,293 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59541
+2024-12-20 18:15:57,855 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 220
+2024-12-20 18:15:57,856 - INFO - Initial login response status: 200
+2024-12-20 18:15:57,856 - DEBUG - Following Okta redirect: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111vESZ9FqoCx3iactS0RjfZrlkcEz_bzbczcMGnHedUpluVxdUFb
+2024-12-20 18:15:57,856 - DEBUG - Request 1: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111vESZ9FqoCx3iactS0RjfZrlkcEz_bzbczcMGnHedUpluVxdUFb
+2024-12-20 18:15:57,857 - DEBUG - Starting new HTTPS connection (1): tctmd.okta.com:443
+2024-12-20 18:15:58,288 - DEBUG - https://tctmd.okta.com:443 "GET /login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111vESZ9FqoCx3iactS0RjfZrlkcEz_bzbczcMGnHedUpluVxdUFb HTTP/11" 302 0
+2024-12-20 18:15:58,290 - DEBUG - Status: 302
+2024-12-20 18:15:58,290 - DEBUG - Headers: {'Date': 'Sat, 21 Dec 2024 02:15:57 GMT', 'Content-Length': '0', 'Connection': 'keep-alive', 'Server': 'nginx', 'x-okta-request-id': '73d0a680db37b9f32c461df5bce382b3', 'x-xss-protection': '0', 'p3p': 'CP="HONK"', 'set-cookie': 'xids=102SCr5rF0uS9ugkyEeABKSBQ;Version=1;Path=/;Secure;HttpOnly;SameSite=None, sid=102iTAgbnk5S8q60I4sCl35JQ;Version=1;Path=/;Secure;HttpOnly;SameSite=None, autolaunch_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, activate_ca_modal_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, JSESSIONID=4A1B24BCD39868A523AC99BB3E0244DD; Path=/; Secure; HttpOnly, t=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, DT=DI1_CxfYRD7SZapl1AYAmz1Kg;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon, 21 Dec 2026 02:15:57 GMT;HttpOnly;SameSite=None', 'content-security-policy-report-only': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'", 'content-security-policy': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com", 'x-rate-limit-limit': '850', 'x-rate-limit-remaining': '849', 'x-rate-limit-reset': '1734747417', 'referrer-policy': 'strict-origin-when-cross-origin', 'accept-ch': 'Sec-CH-UA-Platform-Version', 'cache-control': 'no-cache, no-store', 'pragma': 'no-cache', 'expires': '0', 'location': 'https://www.tctmd.com/', 'content-language': 'en', 'Strict-Transport-Security': 'max-age=315360000; includeSubDomains', 'X-Robots-Tag': 'noindex,nofollow'}
+2024-12-20 18:15:58,290 - DEBUG - Cookies being set
+2024-12-20 18:15:58,290 - DEBUG - Cookie: xids=102SCr5rF0uS9ugkyEeABKSBQ;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 18:15:58,290 - DEBUG - Cookie: sid=102iTAgbnk5S8q60I4sCl35JQ;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 18:15:58,290 - DEBUG - Cookie: autolaunch_triggered=""; Expires=Thu
+2024-12-20 18:15:58,290 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 18:15:58,290 - DEBUG - Cookie: activate_ca_modal_triggered=""; Expires=Thu
+2024-12-20 18:15:58,290 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 18:15:58,290 - DEBUG - Cookie: JSESSIONID=4A1B24BCD39868A523AC99BB3E0244DD; Path=/; Secure; HttpOnly
+2024-12-20 18:15:58,290 - DEBUG - Cookie: t=""; Expires=Thu
+2024-12-20 18:15:58,290 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 18:15:58,290 - DEBUG - Cookie: DT=DI1_CxfYRD7SZapl1AYAmz1Kg;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon
+2024-12-20 18:15:58,290 - DEBUG - Cookie: 21 Dec 2026 02:15:57 GMT;HttpOnly;SameSite=None
+2024-12-20 18:15:58,290 - DEBUG - Switching to TCTMD domain
+2024-12-20 18:15:58,290 - DEBUG - Following redirect to: https://www.tctmd.com/
+2024-12-20 18:15:58,290 - DEBUG - Request 2: https://www.tctmd.com/
+2024-12-20 18:15:59,677 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 18:15:59,701 - DEBUG - Status: 200
+2024-12-20 18:15:59,701 - DEBUG - Headers: {'Connection': 'keep-alive', 'Cache-Control': 'must-revalidate, no-cache, private', 'Content-Encoding': 'gzip', 'Content-Language': 'en', 'Content-Type': 'text/html; charset=UTF-8', 'Expires': 'Sun, 19 Nov 1978 05:00:00 GMT', 'Server': 'nginx', 'X-Content-Type-Options': 'nosniff', 'X-Drupal-Dynamic-Cache': 'UNCACHEABLE', 'X-Frame-Options': 'SAMEORIGIN', 'X-Generator': 'Drupal 9 (https://www.drupal.org)', 'X-Pantheon-Styx-Hostname': 'styx-fe2-b-778d7cd4b8-vmrh4', 'X-Styx-Req-Id': '83aea159-bf41-11ef-bee3-72bbbf47906f', 'X-Ua-Compatible': 'IE=edge', 'Date': 'Sat, 21 Dec 2024 02:15:58 GMT', 'X-Served-By': 'cache-chi-klot8100165-CHI, cache-pao-kpao1770036-PAO', 'X-Cache': 'MISS, MISS', 'X-Cache-Hits': '0, 0', 'X-Timer': 'S1734747357.448167,VS0,VE1366', 'Vary': 'Accept-Encoding, Cookie, Cookie', 'Age': '0', 'Accept-Ranges': 'bytes', 'Via': '1.1 varnish, 1.1 varnish', 'transfer-encoding': 'chunked'}
+2024-12-20 18:16:03,095 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 18:16:03,167 - INFO - Login verified - found user-logged-in class
+2024-12-20 18:16:03,669 - DEBUG - https://www.tctmd.com:443 "GET /search?keyword=&type=slide&desc=true&page=1&page_size=12&sortmode=Date&matching=AND&searched=true HTTP/11" 200 None
+2024-12-20 18:16:03,718 - DEBUG - Search page HTML:
+2024-12-20 18:16:03,718 - DEBUG - <!doctype html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <!-- 10.73.10.187 -->
+    <!-- 2601:644:9200:4c10:8802:803a:db28:ff08, 2601:644:9200:4c10:8802:803a:db28:ff08 -->
+    <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-4940841e6133d456c7c",applicationID:"324496895"};;/*! For license information please see nr-loader-rum-1.277.0.min.js.LICENSE.txt */
+(()=>{var e,t,r={8122:(e,t,r)=>{"use strict";r.d(t,{a:()=>i});var n=r(944);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.R)(3
+2024-12-20 18:16:03,730 - DEBUG - Found results count using selector: div[class*="count"]
+2024-12-20 18:16:03,730 - DEBUG - Results text: 
+Country
+- Select -AfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua & BarbudaArgentinaArmeniaArubaAscension IslandAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia & HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBritish Virgin IslandsBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCanary IslandsCape VerdeCaribbean NetherlandsCayman IslandsCentral African RepublicCeuta & MelillaChadChileChinaChristmas IslandClipperton IslandCocos (Keeling) IslandsColombiaComorosCongo - BrazzavilleCongo - KinshasaCook IslandsCosta RicaCroatiaCubaCuraçaoCyprusCzechiaCôte d’IvoireDenmarkDiego GarciaDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatiniEthiopiaFalkland IslandsFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard & McDonald IslandsHondurasHong Kong SAR ChinaHungaryIcelandIndiaIndonesiaIranIraqIrelandIsle of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKosovoKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacao SAR ChinaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmar (Burma)NamibiaNauruNepalNetherlandsNetherlands AntillesNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorth KoreaNorth MacedoniaNorwayOmanOutlying OceaniaPakistanPalauPalestinian TerritoriesPanamaPapua New GuineaParaguayPeruPhilippinesPitcairn IslandsPolandPortugalPuerto RicoQatarRomaniaRussiaRwandaRéunionSamoaSan MarinoSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint MaartenSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia & South Sandwich IslandsSouth KoreaSouth SudanSpainSri LankaSt. BarthélemySt. HelenaSt. Kitts & NevisSt. LuciaSt. MartinSt. Pierre & MiquelonSt. Vincent & GrenadinesSudanSurinameSvalbard & Jan MayenSwedenSwitzerlandSyriaSão Tomé & PríncipeTaiwanTajikistanTanzaniaThailandTimor-LesteTogoTokelauTongaTrinidad & TobagoTristan da CunhaTunisiaTurkeyTurkmenistanTurks & Caicos IslandsTuvaluU.S. Outlying IslandsU.S. Virgin IslandsUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVatican CityVenezuelaVietnamWallis & FutunaWestern SaharaYemenZambiaZimbabweÅland Islands
+
+2024-12-20 18:16:03,732 - ERROR - Could not find any results count or PDF links
+2024-12-20 18:16:03,732 - INFO - Found 12 PDFs in total
+2024-12-20 18:28:06,734 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-20 18:28:06,962 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59541
+2024-12-20 18:28:10,153 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 223
+2024-12-20 18:28:10,154 - INFO - Initial login response status: 200
+2024-12-20 18:28:10,154 - DEBUG - Following Okta redirect: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=201110ZPBAlQ45891U7CflVRagFT_ZzOQVvXhGEM8JiV0yD0k9mD39k
+2024-12-20 18:28:10,154 - DEBUG - Request 1: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=201110ZPBAlQ45891U7CflVRagFT_ZzOQVvXhGEM8JiV0yD0k9mD39k
+2024-12-20 18:28:10,155 - DEBUG - Starting new HTTPS connection (1): tctmd.okta.com:443
+2024-12-20 18:28:10,589 - DEBUG - https://tctmd.okta.com:443 "GET /login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=201110ZPBAlQ45891U7CflVRagFT_ZzOQVvXhGEM8JiV0yD0k9mD39k HTTP/11" 302 0
+2024-12-20 18:28:10,591 - DEBUG - Status: 302
+2024-12-20 18:28:10,591 - DEBUG - Headers: {'Date': 'Sat, 21 Dec 2024 02:28:09 GMT', 'Content-Length': '0', 'Connection': 'keep-alive', 'Server': 'nginx', 'x-okta-request-id': '94cb3ef8ba1280b00a1b8d5af180e5a1', 'x-xss-protection': '0', 'p3p': 'CP="HONK"', 'set-cookie': 'xids=102h3I7XRE7Sg2V48fuXOOU-g;Version=1;Path=/;Secure;HttpOnly;SameSite=None, sid=102nHaUxIMJSSKd0OHGHCDGCw;Version=1;Path=/;Secure;HttpOnly;SameSite=None, autolaunch_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, activate_ca_modal_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, JSESSIONID=389ABDFDC66F8A02B5DB80873DCFF2E3; Path=/; Secure; HttpOnly, t=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, DT=DI1okSLBNvuSNu1q5Z-yw0zFA;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon, 21 Dec 2026 02:28:09 GMT;HttpOnly;SameSite=None', 'content-security-policy-report-only': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'", 'content-security-policy': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com", 'x-rate-limit-limit': '850', 'x-rate-limit-remaining': '849', 'x-rate-limit-reset': '1734748149', 'referrer-policy': 'strict-origin-when-cross-origin', 'accept-ch': 'Sec-CH-UA-Platform-Version', 'cache-control': 'no-cache, no-store', 'pragma': 'no-cache', 'expires': '0', 'location': 'https://www.tctmd.com/', 'content-language': 'en', 'Strict-Transport-Security': 'max-age=315360000; includeSubDomains', 'X-Robots-Tag': 'noindex,nofollow'}
+2024-12-20 18:28:10,591 - DEBUG - Cookies being set
+2024-12-20 18:28:10,591 - DEBUG - Cookie: xids=102h3I7XRE7Sg2V48fuXOOU-g;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 18:28:10,591 - DEBUG - Cookie: sid=102nHaUxIMJSSKd0OHGHCDGCw;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 18:28:10,591 - DEBUG - Cookie: autolaunch_triggered=""; Expires=Thu
+2024-12-20 18:28:10,591 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 18:28:10,591 - DEBUG - Cookie: activate_ca_modal_triggered=""; Expires=Thu
+2024-12-20 18:28:10,591 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 18:28:10,591 - DEBUG - Cookie: JSESSIONID=389ABDFDC66F8A02B5DB80873DCFF2E3; Path=/; Secure; HttpOnly
+2024-12-20 18:28:10,591 - DEBUG - Cookie: t=""; Expires=Thu
+2024-12-20 18:28:10,591 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 18:28:10,591 - DEBUG - Cookie: DT=DI1okSLBNvuSNu1q5Z-yw0zFA;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon
+2024-12-20 18:28:10,591 - DEBUG - Cookie: 21 Dec 2026 02:28:09 GMT;HttpOnly;SameSite=None
+2024-12-20 18:28:10,591 - DEBUG - Switching to TCTMD domain
+2024-12-20 18:28:10,591 - DEBUG - Following redirect to: https://www.tctmd.com/
+2024-12-20 18:28:10,591 - DEBUG - Request 2: https://www.tctmd.com/
+2024-12-20 18:28:11,944 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 18:28:11,967 - DEBUG - Status: 200
+2024-12-20 18:28:11,968 - DEBUG - Headers: {'Connection': 'keep-alive', 'Cache-Control': 'must-revalidate, no-cache, private', 'Content-Encoding': 'gzip', 'Content-Language': 'en', 'Content-Type': 'text/html; charset=UTF-8', 'Expires': 'Sun, 19 Nov 1978 05:00:00 GMT', 'Server': 'nginx', 'X-Content-Type-Options': 'nosniff', 'X-Drupal-Dynamic-Cache': 'UNCACHEABLE', 'X-Frame-Options': 'SAMEORIGIN', 'X-Generator': 'Drupal 9 (https://www.drupal.org)', 'X-Pantheon-Styx-Hostname': 'styx-fe2-b-778d7cd4b8-pvjqz', 'X-Styx-Req-Id': '382ed47e-bf43-11ef-b984-5a2802f389d2', 'X-Ua-Compatible': 'IE=edge', 'Date': 'Sat, 21 Dec 2024 02:28:11 GMT', 'X-Served-By': 'cache-chi-klot8100172-CHI, cache-pao-kpao1770059-PAO', 'X-Cache': 'MISS, MISS', 'X-Cache-Hits': '0, 0', 'X-Timer': 'S1734748090.772080,VS0,VE1322', 'Vary': 'Accept-Encoding, Cookie, Cookie', 'Age': '0', 'Accept-Ranges': 'bytes', 'Via': '1.1 varnish, 1.1 varnish', 'transfer-encoding': 'chunked'}
+2024-12-20 18:28:15,095 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 18:28:15,173 - INFO - Login verified - found user-logged-in class
+2024-12-20 18:28:15,173 - INFO - Successfully logged in, searching for presentations...
+2024-12-20 18:28:15,650 - DEBUG - https://www.tctmd.com:443 "GET /search?keyword=&type=slide&desc=true&page=1&page_size=12&sortmode=Date&matching=AND&searched=true HTTP/11" 200 None
+2024-12-20 18:28:15,715 - DEBUG - Search results HTML: <!doctype html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <!-- 10.73.10.167 -->
+    <!-- 2601:644:9200:4c10:8802:803a:db28:ff08, 2601:644:9200:4c10:8802:803a:db28:ff08 -->
+    <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-4940841e6133d456c7c",applicationID:"324496895"};;/*! For license information please see nr-loader-rum-1.277.0.min.js.LICENSE.txt */
+(()=>{var e,t,r={8122:(e,t,r)=>{"use strict";r.d(t,{a:()=>i});var n=r(944);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.R)(3);if(!t||"object"!=typeof t)return(0,n.R)(4);const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),o=0===Object.keys(r).length?e:r;for(let a in o)if(void 0!==e[a])try{if(null===e[a]){r[a]=null;continue}Array.isArray(e[a])&&Array.isArray(t[a])?r[a]=Array.from(new Set([...e[a],...t[a]])):"object"==typeof e[a]&&"object"==typeof t[a]?r[a]=i(e[a],t[a]):r[a]=e[a]}catch(e){(0,n.R)(1,e)}return r}catch(e){(0,n.R)(2,e)}}},2555:(e,t,r)=>{"use strict";r.d(t,{Vp:()=>c,fn:()=>s,x1:()=>u});var n=r(384),i=r(8122);const o={beacon:n.NT.beacon,errorBeacon:n.NT.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function s(e){try{const t=c(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}function c(e){if(!e)throw new Error("All info ob
+2024-12-20 18:28:15,717 - ERROR - No presentations found on first page
+2024-12-20 18:33:01,025 - DEBUG - Starting new HTTPS connection (1): www.tctmd.com:443
+2024-12-20 18:33:01,126 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 59541
+2024-12-20 18:33:04,304 - DEBUG - https://www.tctmd.com:443 "POST /api/v1/user/login HTTP/11" 200 224
+2024-12-20 18:33:04,305 - INFO - Initial login response status: 200
+2024-12-20 18:33:04,305 - DEBUG - Following Okta redirect: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111MbvbRkajnAOEirlG3IOtQBBENRuUjBWRoZ8fQQvw4qITJCSTIq
+2024-12-20 18:33:04,305 - DEBUG - Request 1: https://tctmd.okta.com/login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111MbvbRkajnAOEirlG3IOtQBBENRuUjBWRoZ8fQQvw4qITJCSTIq
+2024-12-20 18:33:04,306 - DEBUG - Starting new HTTPS connection (1): tctmd.okta.com:443
+2024-12-20 18:33:04,673 - DEBUG - https://tctmd.okta.com:443 "GET /login/sessionCookieRedirect?redirectUrl=https%3A%2F%2Fwww.tctmd.com%2F&token=20111MbvbRkajnAOEirlG3IOtQBBENRuUjBWRoZ8fQQvw4qITJCSTIq HTTP/11" 302 0
+2024-12-20 18:33:04,675 - DEBUG - Status: 302
+2024-12-20 18:33:04,675 - DEBUG - Headers: {'Date': 'Sat, 21 Dec 2024 02:33:03 GMT', 'Content-Length': '0', 'Connection': 'keep-alive', 'Server': 'nginx', 'x-okta-request-id': '065de8338196224cf723cbce757441c6', 'x-xss-protection': '0', 'p3p': 'CP="HONK"', 'set-cookie': 'xids=102NBzeFKcNTXK_33BUeo0VoA;Version=1;Path=/;Secure;HttpOnly;SameSite=None, sid=102IHhUN-ozQYSKjdYe2pcwBQ;Version=1;Path=/;Secure;HttpOnly;SameSite=None, autolaunch_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, activate_ca_modal_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, JSESSIONID=FDB94376E6514A14E851F6356929E526; Path=/; Secure; HttpOnly, t=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/, DT=DI1vK4YLwBMTJ-kifMCaqOjPA;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon, 21 Dec 2026 02:33:03 GMT;HttpOnly;SameSite=None', 'content-security-policy-report-only': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'", 'content-security-policy': "default-src 'self' tctmd.okta.com *.oktacdn.com; connect-src 'self' tctmd.okta.com tctmd-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com tctmd.kerberos.okta.com https://oinmanager.okta.com data: *.ingest.sentry.io data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' 'report-sample' tctmd.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' tctmd.okta.com *.oktacdn.com; frame-src 'self' tctmd.okta.com tctmd-admin.okta.com login.okta.com *.vidyard.com; img-src 'self' tctmd.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' tctmd.okta.com data: *.oktacdn.com fonts.gstatic.com", 'x-rate-limit-limit': '850', 'x-rate-limit-remaining': '849', 'x-rate-limit-reset': '1734748443', 'referrer-policy': 'strict-origin-when-cross-origin', 'accept-ch': 'Sec-CH-UA-Platform-Version', 'cache-control': 'no-cache, no-store', 'pragma': 'no-cache', 'expires': '0', 'location': 'https://www.tctmd.com/', 'content-language': 'en', 'Strict-Transport-Security': 'max-age=315360000; includeSubDomains', 'X-Robots-Tag': 'noindex,nofollow'}
+2024-12-20 18:33:04,675 - DEBUG - Cookies being set
+2024-12-20 18:33:04,675 - DEBUG - Cookie: xids=102NBzeFKcNTXK_33BUeo0VoA;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 18:33:04,675 - DEBUG - Cookie: sid=102IHhUN-ozQYSKjdYe2pcwBQ;Version=1;Path=/;Secure;HttpOnly;SameSite=None
+2024-12-20 18:33:04,675 - DEBUG - Cookie: autolaunch_triggered=""; Expires=Thu
+2024-12-20 18:33:04,675 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 18:33:04,675 - DEBUG - Cookie: activate_ca_modal_triggered=""; Expires=Thu
+2024-12-20 18:33:04,675 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 18:33:04,675 - DEBUG - Cookie: JSESSIONID=FDB94376E6514A14E851F6356929E526; Path=/; Secure; HttpOnly
+2024-12-20 18:33:04,675 - DEBUG - Cookie: t=""; Expires=Thu
+2024-12-20 18:33:04,675 - DEBUG - Cookie: 01 Jan 1970 00:00:10 GMT; Path=/
+2024-12-20 18:33:04,675 - DEBUG - Cookie: DT=DI1vK4YLwBMTJ-kifMCaqOjPA;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Mon
+2024-12-20 18:33:04,675 - DEBUG - Cookie: 21 Dec 2026 02:33:03 GMT;HttpOnly;SameSite=None
+2024-12-20 18:33:04,675 - DEBUG - Switching to TCTMD domain
+2024-12-20 18:33:04,675 - DEBUG - Following redirect to: https://www.tctmd.com/
+2024-12-20 18:33:04,675 - DEBUG - Request 2: https://www.tctmd.com/
+2024-12-20 18:33:06,283 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 18:33:06,310 - DEBUG - Status: 200
+2024-12-20 18:33:06,310 - DEBUG - Headers: {'Connection': 'keep-alive', 'Cache-Control': 'must-revalidate, no-cache, private', 'Content-Encoding': 'gzip', 'Content-Language': 'en', 'Content-Type': 'text/html; charset=UTF-8', 'Expires': 'Sun, 19 Nov 1978 05:00:00 GMT', 'Server': 'nginx', 'X-Content-Type-Options': 'nosniff', 'X-Drupal-Dynamic-Cache': 'UNCACHEABLE', 'X-Frame-Options': 'SAMEORIGIN', 'X-Generator': 'Drupal 9 (https://www.drupal.org)', 'X-Pantheon-Styx-Hostname': 'styx-fe2-a-669845b445-tlfpb', 'X-Styx-Req-Id': 'e778948e-bf43-11ef-8a2f-be5fafa08567', 'X-Ua-Compatible': 'IE=edge', 'Date': 'Sat, 21 Dec 2024 02:33:05 GMT', 'X-Served-By': 'cache-chi-kigq8000145-CHI, cache-pao-kpao1770071-PAO', 'X-Cache': 'MISS, MISS', 'X-Cache-Hits': '0, 0', 'X-Timer': 'S1734748384.849385,VS0,VE1588', 'Vary': 'Accept-Encoding, Cookie, Cookie', 'Age': '0', 'Accept-Ranges': 'bytes', 'Via': '1.1 varnish, 1.1 varnish', 'transfer-encoding': 'chunked'}
+2024-12-20 18:33:09,235 - DEBUG - https://www.tctmd.com:443 "GET / HTTP/11" 200 None
+2024-12-20 18:33:09,315 - INFO - Login verified - found user-logged-in class
+2024-12-20 18:33:09,315 - INFO - Successfully logged in, searching for presentations...
+2024-12-20 18:33:09,751 - DEBUG - https://www.tctmd.com:443 "GET /search?keyword=&type=slide&desc=true&page=1&page_size=12&sortmode=Date&matching=AND&searched=true HTTP/11" 200 None
+2024-12-20 18:33:09,815 - ERROR - No slide results found
+2024-12-20 18:33:09,815 - DEBUG - Content block HTML:
+2024-12-20 18:33:09,816 - DEBUG - <div class="block block-system block-system-main-block" id="block-tctmd-content">
+ <div id="search-page-app">
+ </div>
+</div>
+
+2024-12-20 18:33:09,816 - ERROR - No presentations found on first page
